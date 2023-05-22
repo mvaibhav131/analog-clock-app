@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![image](https://github.com/mvaibhav131/analog-clock-app/assets/98808183/e9ea0abb-71fe-4101-af21-e1fab09c96fc)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
